@@ -127,13 +127,5 @@ pm2 start index.js --name gif-bot
 ```
 
 Temp files are cleaned up after each conversion. No manual maintenance needed.
-
-## .gitignore
-
-```gitignore
-.env
-node_modules/
-*.log
-temp/
 .DS_Store
 ```
