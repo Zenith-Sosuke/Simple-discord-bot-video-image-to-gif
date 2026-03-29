@@ -35,7 +35,7 @@ sudo apt update && sudo apt install ffmpeg
 ### 2. Install dependencies
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/Zenith-Sosuke/Simple-discord-bot-video-image-to-gif.git>
 cd discord-gif-bot
 npm install discord.js dotenv axios fluent-ffmpeg uuid
 ```
